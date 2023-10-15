@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="View\BangKetQuaTinhToanVIew\BangKetQuaTinhToanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ChatThaiView\ChatThaiFluentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ChatThaiView\ChatThaiView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ChatThaiView\SuaChatThaiView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ChatThaiView\ThemChatThaiView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\DuAnView\FormDuAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\DuAnView\FormDuAnFluent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\DuAnView\FormDuAnView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\GayNongLenToanCauView\GayNongLenToanCauAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\GayNongLenToanCauView\GayNongLenToanCauFluentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\GayNongLenToanCauView\GayNongLenToanCauUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\GayNongLenToanCauView\GayNongLenToanCauView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\HeSoPhatThaiDienView\HeSoPhatThaiDienAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\HeSoPhatThaiDienView\HeSoPhatThaiDienFluentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\HeSoPhatThaiDienView\HeSoPhatThaiDienUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\HeSoPhatThaiDienView\HeSoPhatThaiDienView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\KhiPhatThaiView\KhiPhatThaiAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\LCAView\FormLCAView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\LoaiChatThaiView\LoaiChatThaiFluentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\LoaiChatThaiView\LoaiChatThaiView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\LoaiChatThaiView\SuaLoaiChatThaiView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\LoaiChatThaiView\ThemLoaiChatThaiView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NguyenLieuView\fmNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NguyenLieuView\FormDonViDo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NguyenLieuView\FormLoaiNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NguyenLieuView\FormNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NguyenLieuView\NguyenLieuFluent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhaMayTable\AddCongSuatThietKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhaMayTable\AddInfor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhaMayTable\AddLoaiLN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhaMayTable\AddLoaiNM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhaMayTable\InforAddHub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhaMayTable\NhaMayView_Modified.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhaMayTable\UpdateInfor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhienLieuView\fmNhienLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhienLieuView\FormLoaiNhienLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhienLieuView\FormNhienLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhienLieuView\NhienLieuFluent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\QuanLyDoanhNghiep\FormFluentThemDoanhNghiep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\QuanLyDoanhNghiep\FormThemDoanhNghiep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\QuanLyDoanhNghiep\FromSuaDoanhNghiep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\QuanLyDoanhNghiep\QLDoanhNghiep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SanPhamView\FormSanPhamFluent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SanPhamView\FormSanPhamView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SanPhamView\SanPhamView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ThaiDauRaView\SuaThaiDauRaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ThaiDauRaView\ThaiDauRaFluentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ThaiDauRaView\ThaiDauRaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ThaiDauRaView\ThemThaiDauRaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

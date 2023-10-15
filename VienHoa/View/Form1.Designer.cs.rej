@@ -1,0 +1,11 @@
+diff a/VienHoa/View/Form1.Designer.cs b/VienHoa/View/Form1.Designer.cs	(rejected hunks)
+@@ -396,8 +396,7 @@
+             // panelControl2
+             // 
+             panelControl2.Controls.Add(tblMain);
+-            panelControl2.Location = new System.Drawing.Point(14, 257);
+-            panelControl2.Margin = new System.Windows.Forms.Padding(4);
++            panelControl2.Location = new System.Drawing.Point(12, 209);
+             panelControl2.Name = "panelControl2";
+             panelControl2.Size = new System.Drawing.Size(1164, 672);
+             panelControl2.TabIndex = 2;
